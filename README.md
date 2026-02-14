@@ -21,8 +21,8 @@ This directory contains numerical simulations and analysis of the Bad-Boussinesq
 
 This directory contains studies of the Bad-JM equation with different boundary and initial conditions:
 
-- **jmcase1/**: First boundary condition case
-- **jmcase2/**: Second boundary condition case
+- **jmcase1/**: First initial boundary condition case
+- **jmcase2/**: Second initial boundary condition case
 - **jm-gauss/**: Gaussian initial condition studies
 - **jm-inverse-case2/**: Inverse problem studies for case 2
 
@@ -49,7 +49,7 @@ The Bad-Boussinesq equation is a nonlinear dispersive partial differential equat
 ### Bad-JM Equation
 
 The Bad-JM equation represents another class of nonlinear PDEs with applications in fluid dynamics and wave theory. This project investigates:
-- Different boundary conditions
+- Different initial boundary conditions
 - Gaussian pulse propagation
 - Inverse problems
 
