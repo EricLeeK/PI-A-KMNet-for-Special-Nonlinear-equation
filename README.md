@@ -60,6 +60,10 @@ The Bad-JM equation represents another class of nonlinear PDEs with applications
 - **Numerical Methods**: Implementation of computational schemes for PDE solving
 - **Wave Interactions**: Investigation of nonlinear wave collision and superposition
 
+## More Data in the Website below
+
+https://drive.google.com/file/d/1Zzzt3FyIkLd399oatPi4OJD5ixEMC6Hj/view?usp=drive_link
+
 ## Contributing
 
 This is a research project for scientific computing in PDEs. For questions or collaboration, please refer to the contact information in the repository.
