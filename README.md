@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="./assets/readme/hero.gif" width="100%" alt="Numerical studies of solitons, rogue waves, and Gaussian-type solutions. Conceptual overview.">
+  <img src="./assets/readme/hero.gif" width="100%" alt="非线性方程研究目录与孤子、极端波、高斯波形的概念图谱，不是数值实验结果。">
 </p>
 
 # PI-A-KMNet · Special Nonlinear Equations
 
 **Choose a study:** [Bad-Boussinesq](Bad-Boussinesq-equation/) · [Bad-JM](Bad-JM-equation/)
 
-The animated wave silhouettes are conceptual; simulation outputs and numerical details remain in the study directories.
+The wave atlas and highlighted section are conceptual; simulation outputs and numerical details remain in the study directories.
 
 ## Description
 

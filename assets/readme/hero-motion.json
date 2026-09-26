@@ -1,41 +1,22 @@
 {
   "width": 1200,
   "fps": 30,
-  "duration": 5.2,
+  "duration": 6.0,
   "colors": 256,
   "dither": "none",
+  "transparent_color": "#ff00ff",
   "clip_to_base_alpha": true,
-  "max_size_mb": 2.0,
+  "max_size_mb": 3.0,
   "layers": [],
   "reveals": [
     {
-      "id": "wave-0",
+      "id": "wave-section",
       "axis": "x",
-      "start": 0.2,
-      "end": 1.2,
+      "start": 0.4,
+      "end": 1.8,
       "exit": {
-        "start": 4.35,
-        "end": 5.16
-      }
-    },
-    {
-      "id": "wave-1",
-      "axis": "x",
-      "start": 0.46,
-      "end": 1.46,
-      "exit": {
-        "start": 4.35,
-        "end": 5.16
-      }
-    },
-    {
-      "id": "wave-2",
-      "axis": "x",
-      "start": 0.72,
-      "end": 1.72,
-      "exit": {
-        "start": 4.35,
-        "end": 5.16
+        "start": 5.0,
+        "end": 5.96
       }
     }
   ]
