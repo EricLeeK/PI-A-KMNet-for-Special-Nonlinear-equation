@@ -1,4 +1,12 @@
-# PDE Numerical Simulation Project
+<p align="center">
+  <img src="./assets/readme/hero.gif" width="100%" alt="Numerical studies of solitons, rogue waves, and Gaussian-type solutions. Conceptual overview.">
+</p>
+
+# PI-A-KMNet · Special Nonlinear Equations
+
+**Choose a study:** [Bad-Boussinesq](Bad-Boussinesq-equation/) · [Bad-JM](Bad-JM-equation/)
+
+The animated wave silhouettes are conceptual; simulation outputs and numerical details remain in the study directories.
 
 ## Description
 
@@ -75,3 +83,10 @@ Please refer to the specific license file if present, or contact the maintainer 
 ## Date
 
 Last updated: 2026-02-14
+
+<details>
+<summary>Static overview</summary>
+
+[Open the static SVG](./assets/readme/hero.svg).
+
+</details>
